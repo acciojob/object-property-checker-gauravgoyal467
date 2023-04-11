@@ -8,8 +8,6 @@ function hasKey(key) {
 		}
 	}
 		return false;
-	}
-	
 }
 
 // Do not change the code below
